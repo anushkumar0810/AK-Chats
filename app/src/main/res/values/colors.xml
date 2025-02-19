@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Light Theme-->
+    <color name="colorPrimary">#E6E9EB</color>
+    <color name="colorHeaderTxt">#10163F</color>
+    <color name="colorPrimaryText">#000000</color>
+    <color name="colorSecondaryText">#565659</color>
+
+    <color name="colorPrimary2">#FFFFFF</color>
+
+    <color name="edtTxt_bg">#DADAE0</color>
+    <color name="btn_bg">#10163F</color>
+
+    <!--For Dialogs-->
+    <color name="popupColor">#ffffff</color>
+
+    <!--stable colors-->
+    <color name="dark_blue">#10163F</color>
+    <color name="blue">#1E2E91</color>
+    <color name="light_blue">#0024FF</color>
+    <color name="dark_grey">#1A1B1B</color>
+    <color name="grey">#3D3D3F</color>
+    <color name="light_grey">#606062</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white2">#C3C3CE</color>
+    <color name="green">#255C28</color>
+
+    <!--Transparent colors-->
+    <color name="transparent_blue">#5B595B65</color>
+    <color name="transparent_white">#C3FFFFFF</color>
+
+</resources>

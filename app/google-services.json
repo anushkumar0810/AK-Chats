@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134635797733",
+    "project_id": "b2a-builds-880cc",
+    "storage_bucket": "b2a-builds-880cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134635797733:android:221628216c4ad5c4f8280c",
+        "android_client_info": {
+          "package_name": "com.anush_projects.akchats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA13lFc7SAasvqVY4yFRTV4pQMuitb-pac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
