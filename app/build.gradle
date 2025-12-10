@@ -68,7 +68,7 @@ dependencies {
 
     implementation 'com.auth0:java-jwt:4.4.0'
 
-    configurations.all {
+    configurations.configureEach {
         resolutionStrategy {
             force 'org.apache.httpcomponents.client5:httpclient5:5.2'
         }

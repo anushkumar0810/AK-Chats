@@ -1,12 +1,7 @@
 package com.anush_projects.akchats.utils;
 
-import android.util.Log;
-
-import com.anush_projects.akchats.Models.Message;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.google.firebase.messaging.FirebaseMessaging;
 
 public class FirebaseUtils {
     private static final FirebaseAuth auth = FirebaseAuth.getInstance();
